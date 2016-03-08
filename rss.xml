@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SILVIA MAZZARRI]]></title>
+        <description><![CDATA[SILVIA MAZZARRI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 00:55:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b62e17a4-16bb-4934-96d6-006b1589cff6.jpg">]]></description>
+            <link>undefined5f77a85e-48df-4d7f-9254-840b39db6454/index.html</link>
+            <guid isPermaLink="false">5f77a85e-48df-4d7f-9254-840b39db6454</guid>
+            <pubDate>Tue, 08 Mar 2016 00:54:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
