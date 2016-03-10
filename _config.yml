@@ -1,7 +1,7 @@
 name: SILVIA MAZZARRI
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.43095398833975196
+typography_spectrum: 0.08599
 title: 'Me & Light'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#5f5f5f'
     - '#919191'
     - '#22231d'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0
 purpose: []
